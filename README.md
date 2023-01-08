@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-- 🔭 I’m currently working on a project called grabbr
+- 🔭 I’m currently working on a project called PitGuru with [CHUFFLE](https://github.com/Chuffle)
 - 🌱 I’m currently learning React, HTML, CSS, TailwindCSS and Typescript
 - 👨‍💻 I’m looking to collaborate on anything that challenges me!
 ## 📫 How to reach me:  
