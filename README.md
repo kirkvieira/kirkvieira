@@ -8,3 +8,4 @@
  Message me here [website](https://www.kirkvieira.com/ "Kirk Vieiras website") and I will get back to you ASAP! I would love to contribute to your project!
 
 
+![Kirk's GitHub stats](https://github-readme-stats-git-master-kirkvieira.vercel.app/api?username=kirkvieira&show_icons=true&theme=radical)
