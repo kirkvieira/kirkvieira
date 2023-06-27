@@ -9,7 +9,7 @@
 
 
 ![Kirk's GitHub stats](https://github-readme-stats-git-master-kirkvieira.vercel.app/api?username=kirkvieira&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats-git-master-kirkvieira.vercel.app/api/top-langs/?username=kirkvieira)](https://github.com/kirkvieira/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-master-kirkvieira.vercel.app/api/top-langs/?username=kirkvieira theme=radical)](https://github.com/kirkvieira/github-readme-stats )
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirkvieira&label=Profile%20views&color=0e75b6&style=flat" alt="kirkvieira" /> </p>
 
