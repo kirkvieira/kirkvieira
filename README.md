@@ -7,7 +7,7 @@
 ## 📫 How to reach me:  
  Message me here [website](https://www.kirkvieira.com/ "Kirk Vieiras website") and I will get back to you ASAP! I would love to contribute to your project!
 
-<div>
+<div class="stats" align="center">
 ![Kirk's GitHub stats](https://github-readme-stats-git-master-kirkvieira.vercel.app/api?username=kirkvieira&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats-git-master-kirkvieira.vercel.app/api/top-langs/?username=kirkvieira&layout=donut&theme=radical)](https://github.com/kirkvieira/github-readme-stats )
 </div>
